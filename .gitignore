@@ -15,5 +15,5 @@
 .DS_Store
 .prettierignore
 
-images
+# images
 design
