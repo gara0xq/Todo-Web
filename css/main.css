@@ -308,6 +308,7 @@ body.light #clearAll:hover {
     height: 8px;
     background-color: var(--Very-Dark-Desaturated-Blue);
     border-radius: 25px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2);
 }
 
 .progress-bar-child {
